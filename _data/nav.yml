@@ -6,7 +6,7 @@
 
 - title: "Research"
   subcategories:
-    - subtitle: "Deep Brain Stimulation"
-      subhref: "/research/dbs.html"
-    - subtitle: "Split Brain"
-      subhref: "/research/split.html"
+    - subtitle: "Brain stimulation and neural plasticity"
+      subhref: "/research.html#brain-stimulation-and-neural-plasticity"
+    - subtitle: "Brain network connectivity"
+      subhref: "/research.html#brain-network-connectivity"
