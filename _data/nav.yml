@@ -1,0 +1,12 @@
+- title: "Home"
+  href: "/"
+
+- title: "About"
+  href: "/about.html"
+
+- title: "Research"
+  subcategories:
+    - subtitle: "Deep Brain Stimulation"
+      subhref: "/research/dbs.html"
+    - subtitle: "Split Brain"
+      subhref: "/research/split.html"
