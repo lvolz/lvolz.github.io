@@ -1,6 +1,18 @@
-## Navigation
+## Navigation Items
 
 Edit `_data/nav.yml`.
+
+## Banner / Default
+
+Edit `_layouts/default.html`
+
+## Viewing locally
+
+```bash
+bundle exec jekyll serve
+```
+
+Open http://127.0.0.1:4000 in browser.
 
 ## Resources
 
