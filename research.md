@@ -20,6 +20,10 @@ The brain cannot regenerate neural tissue damaged by stroke. Improvement of func
 <br/>
 
 ## Brain Stimulation
+![stroke_reorg](img/rTMS_stroke.png "rTMS_stroke"){: .center-image}
+*from Volz and Grefkes, 2015*{: .right}
+<br/>
+
 Non-invasive brain stimulation such as transcranial magnetic stimulation (TMS) allows us to interact with the human brain in several ways. While single pulse TMS can be used to probe the excitability of motor system, repetitive TMS (rTMS) modulates neural activity of the stimulated circuitry beyond the duration of the stimulation. Finally, stimulation of cortical regions during task performance (_online TMS_) can help to investigate the functional role of cortical areas for the performed task in a causal way.
 In our lab we investigate the mechanisms underlying plasticity-induction in the human brain and use _online TMS_ to further our mechanistic understanding of regional contributions to complex and distributed brain functions such as motor control. Specifically, we aim at furthering our mechanistic understanding of _cerebral reorganization_ and _reward-dependent motor learning_ after stroke and ask the question how we can utilize rTMS to modulate post-stroke plasticity to benefit functional recovery.
 <br/>
@@ -36,6 +40,10 @@ In our lab we investigate the mechanisms underlying plasticity-induction in the 
 <br/>
 
 ## Brain Network Connectivity
+![DCM_hand_food](img/DCM_foot_hand.png "DCM-hand_food"){: .center-image}
+*from Volz et al. 2015, NeuroImage*{: .right}
+<br/>
+
 Human behavior is typically not controlled by single brain regions but results from the fine-tuned interaction of multiple brain areas. Analyzing the connectivity of remote but inter-connected brain areas can help to understand the neural mechanisms underlying human behavior and its impairment due to diseases.
 We use a multimodal approach of structural and functional MRI to further our insights into the functional anatomy of how the brain integrates information to enable the human condition. Specifically, we aim at integrating insights from a multimodal perspective to understand how network structure predetermines function with an emphasis on network alterations due to stroke lesions or degenerative processes.
 <br/>
@@ -55,6 +63,7 @@ We use a multimodal approach of structural and functional MRI to further our ins
 ![stroke_reorg](img/decision_making.png "decision-making"){: .center-image}
 *from Volz et al. 2017, PNAS*{: .right}
 <br/>
+
 Decision-making has a profound influence on our daily life and personal development. Implementing new control-policies which allow to change our decision-making behavior and skill-acquisition through learning enable us to adapt to our ever changing environment. Understanding the neural basis of decision-making and learning thus is paramount not only from a theoretical perspective, but has many practical implications ranging from understanding human behavior in moral or social situations to how we compensate brain lesions by adapting motor control-policies and learning new motor skills to compensate functional impairment. In particular, the question how cerebral reorganization after stroke impacts on and interacts with decision-making and skill learning (e.g. in the motor domain) remains poorly understood. Our goal is to combine increasingly complex behavioral readouts reflecting motor learning and changes in decision-making patterns with multimodal neural data in stroke patients to elucidate how the heightened level of neural plasticity in the critical-period early after stroke is shaped by and allows motor-skill learning and formation of new decision-making policies. Specifically, we aim at increasing our mechanistic understanding of how changes in learning and decision-making facilitate functional recovery after brain lesions and developing novel treatment approaches by modulating such mechanisms, e.g. via suitable reinforcement strategies (reward/punishment), neuropharmacological interventions or non-invasive brain stimulation.
 <br/>
 
@@ -66,6 +75,10 @@ Decision-making has a profound influence on our daily life and personal developm
 <br/>
 
 ## Split-brain and Consciousness
+![stroke_reorg](img/split_brain_exp.png "split_brain_exp"){: .center-image}
+*from Volz and Gazzaniga 2017, Brain*{: .right}
+<br/>
+
 The insights gained from testing these so called ‘split-brain’ patients, which underwent sectioning of the corpus callosum as a treatment for severe epilepsy, have profoundly shaped the field of cognitive neuroscience and helped to establish seminal information processing models for how the brain governs behavior and cognition. For example, split-brain research has highlighted distinct interpretive capacities of both cerebral hemispheres and contributed important pieces to the puzzle of deciphering the neurobiological foundations that give rise to our conscious experience of the world.
 <br/>
 
@@ -77,6 +90,10 @@ The insights gained from testing these so called ‘split-brain’ patients, whi
 <br/>
 
 ## Translational Neuroimaging
+![glioma](img/glioma.png "glioma"){: .center-image}
+*from Volz et al. 2018, Q J Nucl Med Mol Imaging*{: .right}
+<br/>
+
 Advanced functional and structural neuroimaging methods such as diffusion MRI or fMRI offer the potential to further our mechanistic understanding of psychiatric and neurological disease and may help to create new diagnostic tools enabling earlier and more accurate diagnosis and even prognosis on the level of individual patients. Our goal is to advance the clinical utility of neuroimaging by applying novel methods to patient populations in cooperation with both methodological experts and specialized clinicians.
 <br/>
 

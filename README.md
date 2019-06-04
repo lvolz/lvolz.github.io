@@ -6,6 +6,18 @@ Edit `_data/nav.yml`.
 
 Edit `_layouts/default.html`
 
+## Carousel
+
+Used just these components:
+* [thauvette/jekyll-bootstrap-carousel-landing: Search carousel](https://github.com/thauvette/jekyll-bootstrap-carousel-landing/search?q=carousel&unscoped_q=carousel)
+
+Ideally someday simpler navigation menu and widened shorter carousel like here:
+* [thauvette/jekyll-bootstrap-carousel-landing: demo](https://thauvette.github.io/jekyll-bootstrap-carousel-landing/#)
+
+Similar tools / reference:
+* [Carousel · Bootstrap](https://getbootstrap.com/docs/4.3/components/carousel/)
+* [Jekyll without plugins | Jekyll Codex](https://jekyllcodex.org/without-plugins/)
+
 ## Viewing locally
 
 ```bash
