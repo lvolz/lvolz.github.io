@@ -1,0 +1,20 @@
+- title: "Home"
+  href: "/"
+
+- title: "About"
+  href: "/about.html"
+
+- title: "Research"
+  subcategories:
+    - subtitle: "Cerebral Reorganization after Stroke"
+      subhref: "/research.html#cerebral-reorganization-after-stroke"
+    - subtitle: "Brain Stimulation"
+      subhref: "/research.html#brain-stimulation"
+    - subtitle: "Brain Network Connectivity"
+      subhref: "/research.html#brain-network-connectivity"
+    - subtitle: "Decision-making and Learning"
+      subhref: "/research.html#decision-making-and-learning"
+    - subtitle: "Split-brain and Consciousness"
+      subhref: "/research.html#split-brain-and-consciousness"
+    - subtitle: "Translational Neuroimaging"
+      subhref: "/research.html#translational-neuroimaging"

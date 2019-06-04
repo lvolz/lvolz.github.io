@@ -1,85 +1,53 @@
-## Navigation Items
+#Jekyll Bootstrap Carousel Landing Page
 
-Edit `_data/nav.yml`.
+Build from [Jekyll Bootstrap Starter Template](https://github.com/thauvette/jekyll-bootstrap-starter-template)
 
-## Banner / Default
+Based on [Bootstrap Carousel Example](https://getbootstrap.com/docs/4.0/examples/carousel/)
 
-Edit `_layouts/default.html`
+Photos from [Pexels](https://www.pexels.com/)
 
-## Carousel
+# Jekyll Template
 
-Used just these components:
-* [thauvette/jekyll-bootstrap-carousel-landing: Search carousel](https://github.com/thauvette/jekyll-bootstrap-carousel-landing/search?q=carousel&unscoped_q=carousel)
+This is a template for Jekyll and Bootstrap 4 using Filament Group's [LoadJS](https://github.com/filamentgroup/loadJSFilament) and
+[LoadCSS](https://github.com/filamentgroup/loadCSS) so you can get fast loading site.
 
-Ideally someday simpler navigation menu and widened shorter carousel like here:
-* [thauvette/jekyll-bootstrap-carousel-landing: demo](https://thauvette.github.io/jekyll-bootstrap-carousel-landing/#)
+I've built this using recommendations from google page speed insights. (Say what you want about that).
 
-Similar tools / reference:
-* [Carousel · Bootstrap](https://getbootstrap.com/docs/4.3/components/carousel/)
-* [Jekyll without plugins | Jekyll Codex](https://jekyllcodex.org/without-plugins/)
+It includes jekyll-livereload for easy development.
 
-## Viewing locally
+[Here is a barebones version without Bootstrap](https://github.com/thauvette/jekyll-starter-template)
 
-```bash
-bundle exec jekyll serve
-```
+## Set up
+* Run bundle
+* Run jekyll serve
 
-Open http://127.0.0.1:4000 in browser.
+That's it.
 
-## Resources
+## Adding JS and CSS
+### CSS
+To load additional css files use...
 
-### Jekyll on Github
+`<link rel='preload' href='/path/to/stylesheet.css' as='style' onload='this.rel="stylesheet"'>`
+`<noscript><link rel='stylesheet' href='/path/to/stylesheet.css'></noscript>`
 
-- [Setting up your GitHub Pages site locally with Jekyll - GitHub Help](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll)
+as per [LoadCSS](https://github.com/filamentgroup/loadCSS).
 
-### Navigation in Jekyll
+For custom styles, place all sass files in `assets/_sass` and use `@import 'filename'` with no extension in the `assets/css/main.scss`
 
-- [Advanced navigation | CloudCannon Academy](https://learn.cloudcannon.com/jekyll/advanced-navigation/)
+### JS
+For adding JS files see the instructions in `assets/js/loader.js`. It is designed to load files asynchronous and prevent render blocking.
 
+## Recomendations
 
-## Welcome to GitHub Pages
+I like to put any important styles in the `_inludes/prority-css.html` file. This is mostly to prevent flashes of un-styled content.  
 
-You can use the [editor on GitHub](https://github.com/lvolz/lvolz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Use [Favicon Generator](https://realfavicongenerator.net/) to generate your own favicon. Replace all the files in the root folder with the ones it generates for you. The theme colour can be changed in the `_includes/head.html` file.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lvolz/lvolz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-Tables
-| people |
-|--------------|
-| ![portrait](img/LJV_portrait.jpg "Lukas J. Volz"){: .center-image} Lukas J. Volz Group leader |
-| pink lady | jazz |
-| honeycrisp | granny smith |
-{:.mbtablestyle}
+## Props and Thanks to...
+* Filament Group's [LoadJS](https://github.com/filamentgroup/loadJSFilament) and
+[LoadCSS](https://github.com/filamentgroup/loadCSS)
+* penibelst's [HTML Compression](https://github.com/penibelst/jekyll-compress-html)
+* [jpeg.io](https://www.jpeg.io/) for image compression
+* [tiny png](https://tinypng.com/) for png compression
+* [Favicon Generator](https://realfavicongenerator.net/)
+[Bootstrap 4](https://getbootstrap.com/)
