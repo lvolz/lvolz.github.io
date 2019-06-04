@@ -37,3 +37,24 @@ text-align:justify
 }
 
 img + em { }
+
+#main_content_wrap {
+  background: #f2f2f2;
+  border-top: 1px solid #111;
+  border-bottom: 1px solid #111;
+}
+
+#main_content {
+  padding-top: 40px;
+}
+
+.inner {
+  position: relative;
+  max-width: 800px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+.outer {
+  width: 100%;
+}
