@@ -3,6 +3,9 @@
 
 ## Cerebral Reorganization after Stroke
 ![stroke_reorg](img/stroke_reorg.png "stroke reorganization"){: .center-image}
+*from Volz et al. 2016, Cerebral Cortex*{: .right}
+<br/>
+
 The brain cannot regenerate neural tissue damaged by stroke. Improvement of functional impairment thus has to arise from repurposing intact neural circuitry to accommodate the neural processes necessary to compensate for the tissue loss. When patients are initial unable to move their hand (_hemiplegia_), different parts of the brain take over hand motor control to enable the patients to relearn to hand use. This process is referred to as _**cerebral reorganization**_. In our lab we study how the brain accomplishes successful reorganization using functional neuroimaging (fMRI, EEG) and non-invasive brain stimulation (TMS). Since functional reorganization mainly occurs in the first weeks after stroke – the so-called _critical-period_ – we focus on the longitudinal assessment of acute stroke patients in a hospitalized setting. Our goal lies in the development of translational approaches to (i) predict the recovery-potential of individual patients and (ii) modulate reorganization to amplify motor recovery.
 <br/>
 
@@ -49,6 +52,9 @@ We use a multimodal approach of structural and functional MRI to further our ins
 
 
 ## Decision-making and Learning
+![stroke_reorg](img/decision_making.png "decision-making"){: .center-image}
+*from Volz et al. 2017, PNAS*{: .right}
+<br/>
 Decision-making has a profound influence on our daily life and personal development. Implementing new control-policies which allow to change our decision-making behavior and skill-acquisition through learning enable us to adapt to our ever changing environment. Understanding the neural basis of decision-making and learning thus is paramount not only from a theoretical perspective, but has many practical implications ranging from understanding human behavior in moral or social situations to how we compensate brain lesions by adapting motor control-policies and learning new motor skills to compensate functional impairment. In particular, the question how cerebral reorganization after stroke impacts on and interacts with decision-making and skill learning (e.g. in the motor domain) remains poorly understood. Our goal is to combine increasingly complex behavioral readouts reflecting motor learning and changes in decision-making patterns with multimodal neural data in stroke patients to elucidate how the heightened level of neural plasticity in the critical-period early after stroke is shaped by and allows motor-skill learning and formation of new decision-making policies. Specifically, we aim at increasing our mechanistic understanding of how changes in learning and decision-making facilitate functional recovery after brain lesions and developing novel treatment approaches by modulating such mechanisms, e.g. via suitable reinforcement strategies (reward/punishment), neuropharmacological interventions or non-invasive brain stimulation.
 <br/>
 
