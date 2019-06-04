@@ -2,6 +2,7 @@
 <br/>
 
 ## Cerebral Reorganization after Stroke
+![stroke_reorg](img/stroke_reorg.png "stroke reorganization"){: .center-image}
 The brain cannot regenerate neural tissue damaged by stroke. Improvement of functional impairment thus has to arise from repurposing intact neural circuitry to accommodate the neural processes necessary to compensate for the tissue loss. When patients are initial unable to move their hand (_hemiplegia_), different parts of the brain take over hand motor control to enable the patients to relearn to hand use. This process is referred to as _**cerebral reorganization**_. In our lab we study how the brain accomplishes successful reorganization using functional neuroimaging (fMRI, EEG) and non-invasive brain stimulation (TMS). Since functional reorganization mainly occurs in the first weeks after stroke – the so-called _critical-period_ – we focus on the longitudinal assessment of acute stroke patients in a hospitalized setting. Our goal lies in the development of translational approaches to (i) predict the recovery-potential of individual patients and (ii) modulate reorganization to amplify motor recovery.
 <br/>
 
