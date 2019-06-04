@@ -13,3 +13,21 @@
   //border-bottom-left-radius: 2px;
   //border-bottom-right-radius: 2px;
 }
+
+p {
+text-align:justify
+
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+.mbtablestyle {
+        border-collapse: collapse;
+   > table, td, th {
+        border: 0px solid black;
+        }
+}
