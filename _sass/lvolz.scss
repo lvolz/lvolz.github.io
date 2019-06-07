@@ -15,7 +15,7 @@
 }
 
 p {
-text-align:justify
+text-align:justify;
 
 }
 
@@ -41,6 +41,16 @@ text-align:justify
     margin: 0 auto;
     display: block;
 }
+
+.lv-nav{
+  background-color: #000000 !important;
+  border: 1px solid white;
+}
+
+.lv-dropdown-item{
+  color: white !important;
+}
+
 
 .outer_home{
   width: 100%;

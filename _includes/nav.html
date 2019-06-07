@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-dark lv-nav">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -8,12 +8,12 @@
       {% for nav in site.data.nav %}
         {% if nav.subcategories != null %}
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="{{ site.url }}{{ nav.url }}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle lv-dropdown-item" href="{{ site.url }}{{ nav.url }}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
               {{ nav.title }}
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             {% for subcategory in nav.subcategories %}
-              <a class="dropdown-item" href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
+              <a class="dropdown-item lv-dropdown-item" href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
             {% endfor %}
             </div>
           </li>
@@ -23,7 +23,7 @@
            </li>
         {% else %}
           <li class="nav-item">
-            <a class="dropdown-item" href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+            <a class="dropdown-item lv-dropdown-item" href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
           </li>
         {% endif %}
       {% endfor %}
