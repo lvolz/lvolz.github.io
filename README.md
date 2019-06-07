@@ -6,6 +6,12 @@ Edit `_data/nav.yml`.
 
 Edit `_layouts/default.html`
 
+
+---
+layout: /_layouts/home_layout.html
+---
+
+
 ## Carousel
 
 Used just these components:

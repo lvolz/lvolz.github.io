@@ -2,7 +2,7 @@
   display: block;
   position: absolute;
   top: 20px;
-  left: 10px;
+  left: 25px;
 	-webkit-box-shadow: none;
   //z-index: 10;
   //padding: 10px 50px 10px 10px;
@@ -23,13 +23,45 @@ text-align:justify
      text-align:right;
 }
 
-.center-image
-{
+.ukk_logo{
+  max-width:295px;
+  -webkit-box-shadow: none;
+}
+
+.foot_address{
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.center-image{
     margin: 0 auto;
     display: block;
 }
 
-.mbtablestyle {
+.outer_home{
+  width: 100%;
+  padding-bottom: 10px;
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+  background: #000000;
+}
+
+#main_content_wrap_home {
+  border-top: 1px solid #f8f9fa;
+  border-bottom: 1px solid #f8f9fa;
+}
+
+.home_image{
+  margin: 0 auto;
+  display: block;
+  -webkit-box-shadow: none;
+}
+
+.mbtablestyle{
         border-collapse: collapse;
    > table, td, th {
         border: 0px solid black;
