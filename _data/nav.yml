@@ -2,12 +2,6 @@
 - title: "Home"
   href: "/index.html"
 
-- title: "About"
-  href: "/about.html"
-
-- title: "Contact"
-  href: "/contact.html"
-
 - title: "Research"
   subcategories:
     - subtitle: "Cerebral Reorganization after Stroke"
@@ -22,3 +16,12 @@
       subhref: "/research.html#split-brain-and-consciousness"
     - subtitle: "Translational Neuroimaging"
       subhref: "/research.html#translational-neuroimaging"
+
+- title: "About"
+  href: "/about.html"
+
+- title: "Team"
+  href: "/team.html"
+
+- title: "Contact"
+  href: "/contact.html"

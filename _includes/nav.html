@@ -11,9 +11,9 @@
             <a class="nav-link dropdown-toggle lv-dropdown-item" href="{{ site.url }}{{ nav.url }}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
               {{ nav.title }}
             </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <div class="dropdown-menu lv-dropdown-menu" aria-labelledby="navbarDropdown">
             {% for subcategory in nav.subcategories %}
-              <a class="dropdown-item lv-dropdown-item" href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
+              <a class="dropdown-item" href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
             {% endfor %}
             </div>
           </li>
