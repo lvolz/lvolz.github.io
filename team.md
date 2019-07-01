@@ -14,7 +14,7 @@ publications: [google scholar](https://scholar.google.com/citations?user=jD4Faz4
 
 ![portrait_TP](img/grey_scale_TP.jpg "Theresa Paul"){: .align-left}
 
-Theresa Paul, BSc<br/>
+Theresa Paul, MSc (psychology)<br/>
 PhD Candidate<br/>
 <br/>
 <br/>
