@@ -6,7 +6,7 @@ layout: default
 ![portrait](img/LJV_portrait.jpg "Lukas J. Volz"){: .align-left}
 
 Lukas J. Volz, MD<br/>
-Group leader<br/>
+Group Leader<br/>
 publications: [google scholar](https://scholar.google.com/citations?user=jD4Faz4AAAAJ&hl=en&oi=ao)<br/>
 [CV](/img/CV_Lukas_J_Volz_2019.pdf)
 <br/>
@@ -15,7 +15,7 @@ publications: [google scholar](https://scholar.google.com/citations?user=jD4Faz4
 ![portrait_TP](img/grey_scale_TP.jpg "Theresa Paul"){: .align-left}
 
 Theresa Paul, BSc<br/>
-PhD Student<br/>
+PhD Candidate<br/>
 <br/>
 <br/>
 
