@@ -5,10 +5,17 @@ layout: default
 # People
 ![portrait](img/LJV_portrait.jpg "Lukas J. Volz"){: .align-left}
 
-Lukas J. Volz, MD, PhD<br/>
+Lukas J. Volz, MD<br/>
 Group leader<br/>
 publications: [google scholar](https://scholar.google.com/citations?user=jD4Faz4AAAAJ&hl=en&oi=ao)<br/>
 [CV](/img/CV_Lukas_J_Volz_2019.pdf)
+<br/>
+<br/>
+
+![portrait_TP](img/grey_scale_TP.jpg "Theresa Paul"){: .align-left}
+
+Theresa Paul, BSc<br/>
+PhD Student<br/>
 <br/>
 <br/>
 

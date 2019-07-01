@@ -10,12 +10,12 @@ The brain cannot regenerate neural tissue damaged by stroke. Improvement of func
 <br/>
 
 #### publications:
-1. **Volz LJ**, Grefkes C **(2013)** Neurophysiological and Neuroimaging Predictors of Functional Recovery after Stroke. _Klinische Neurophysiologie 44:238-246_
-2. 	**Volz LJ**, Sarfeld AS, Diekhoff S, Rehme AK, Pool EM, Eickhoff SB, Fink GR, Grefkes C **(2015)** Motor Cortex Excitability and Connectivity in chronic stroke – A multimodal model of functional reorganization. _Brain Structure and Function 220(2):1093-107_
-3. 	Rehme AK, **Volz LJ**, Feis DL, Bomilcar-Focke I, Liebig T, Eickhoff SB, Fink GR, Grefkes C **(2015)** Identifying neuroimaging markers of motor disability in acute stroke by machine learning techniques. _Cerebral Cortex 25(9):3046-56_
-4. 	Rehme AK, **Volz LJ**, Feis DL, Eickhoff SB, Fink GR, Grefkes C **(2015)** Early neuroimaging predictors of chronic motor disability after stroke. _Human Brain Mapping 36(11):4553-65_
-5.  **Volz LJ**, Rehme AK, Michely J, Nettekoven C, Eickhoff SB, Fink GR, Grefkes C **(2016)** Shaping Early Reorganization of Neural Networks Promotes Motor Function after Stroke. _Cerebral Cortex 26(6):2882-2894_
-6. **Volz LJ**, Vollmer M, Michely J, Fink GR, Grefkes C, Rothwell JC, Grefkes C **(2017)** Time-dependent functional role of the contralesional motor cortex after stroke. _NeuroImage: Clinical: 16: 165-174_
+1. **Volz LJ**, Vollmer M, Michely J, Fink GR, Grefkes C, Rothwell JC, Grefkes C **(2017)** Time-dependent functional role of the contralesional motor cortex after stroke. _NeuroImage: Clinical: 16: 165-174_
+2.  **Volz LJ**, Rehme AK, Michely J, Nettekoven C, Eickhoff SB, Fink GR, Grefkes C **(2016)** Shaping Early Reorganization of Neural Networks Promotes Motor Function after Stroke. _Cerebral Cortex 26(6):2882-2894_
+3. 	Rehme AK, **Volz LJ**, Feis DL, Eickhoff SB, Fink GR, Grefkes C **(2015)** Early neuroimaging predictors of chronic motor disability after stroke. _Human Brain Mapping 36(11):4553-65_
+4. 	Rehme AK, **Volz LJ**, Feis DL, Bomilcar-Focke I, Liebig T, Eickhoff SB, Fink GR, Grefkes C **(2015)** Identifying neuroimaging markers of motor disability in acute stroke by machine learning techniques. _Cerebral Cortex 25(9):3046-56_
+5. 	**Volz LJ**, Sarfeld AS, Diekhoff S, Rehme AK, Pool EM, Eickhoff SB, Fink GR, Grefkes C **(2015)** Motor Cortex Excitability and Connectivity in chronic stroke – A multimodal model of functional reorganization. _Brain Structure and Function 220(2):1093-107_
+6. **Volz LJ**, Grefkes C **(2013)** Neurophysiological and Neuroimaging Predictors of Functional Recovery after Stroke. _Klinische Neurophysiologie 44:238-246_
 <br/>
 <br/>
 
@@ -29,13 +29,13 @@ In our lab we investigate the mechanisms underlying plasticity-induction in the 
 <br/>
 
 #### publications:
-1. **Volz LJ**, Benali A, Mix A, Neubacher U, Funke K **(2013)** Dose-dependence of changes in cortical protein expression induced with repeated transcranial magnetic theta-burst stimulation in the rat. _Brain Stimulation 6(4):598-606_
-2. Cárdenas-Morales L, **Volz LJ**, Rehme AK, Pool EM, Nettekoven C, Eickhoff SB, Fink GR, Grefkes C **(2014)** Network Connectivity and Individual Responses to Brain Stimulation in the Human Motor System. _Cerebral Cortex 24(7):1697-707 (shared first-authorship)_
-3. Nettekoven C, **Volz LJ**, Kutscha M, Pool EM, Rehme AK, Eickhoff SB, Fink GR, Grefkes C **(2014)** Dose- dependent effects of theta-burst rTMS on cortical excitability and resting-state connectivity of the human motor system. _Journal of Neuroscience 34(20):6849-59_
+1. **Volz LJ**, Hamada M, Rothwell JC, Grefkes C **(under review)** What makes the muscle twitch more: a multimodal model of plasticity induction
+2. Krall SC, **Volz LJ**, Oberwelland E, Grefkes C, Fink GR, Konrad K **(2016)** The right temporoparietal junction in attention and social interaction: A transcranial magnetic stimulation study. _Human Brain Mapping, 37(2), 796-807_
+3. **Volz LJ**, Hamada M, Rothwell JC, Grefkes C **(2015)** What makes the muscle twitch: motor system connectivity and TMS-induced activity. _Cerebral Cortex 25(9):2346-53_
 4. Nettekoven C, **Volz LJ**, Leimbach M, Pool EM, Rehme AK, Eickhoff SB, Fink GR, Grefkes C **(2015)** Inter-individual variability in cortical excitability and motor network connectivity following multiple blocks of rTMS. _NeuroImage 118: 209–218_
-5. **Volz LJ**, Hamada M, Rothwell JC, Grefkes C **(2015)** What makes the muscle twitch: motor system connectivity and TMS-induced activity. _Cerebral Cortex 25(9):2346-53_
-6. Krall SC, **Volz LJ**, Oberwelland E, Grefkes C, Fink GR, Konrad K **(2016)** The right temporoparietal junction in attention and social interaction: A transcranial magnetic stimulation study. _Human Brain Mapping, 37(2), 796-807_
-7. **Volz LJ**, Hamada M, Rothwell JC, Grefkes C **(under review)** What makes the muscle twitch more: a multimodal model of plasticity induction
+5. Nettekoven C, **Volz LJ**, Kutscha M, Pool EM, Rehme AK, Eickhoff SB, Fink GR, Grefkes C **(2014)** Dose- dependent effects of theta-burst rTMS on cortical excitability and resting-state connectivity of the human motor system. _Journal of Neuroscience 34(20):6849-59_
+6. Cárdenas-Morales L, **Volz LJ**, Rehme AK, Pool EM, Nettekoven C, Eickhoff SB, Fink GR, Grefkes C **(2014)** Network Connectivity and Individual Responses to Brain Stimulation in the Human Motor System. _Cerebral Cortex 24(7):1697-707 (shared first-authorship)_
+7. **Volz LJ**, Benali A, Mix A, Neubacher U, Funke K **(2013)** Dose-dependence of changes in cortical protein expression induced with repeated transcranial magnetic theta-burst stimulation in the rat. _Brain Stimulation 6(4):598-606_
 <br/>
 <br/>
 
@@ -49,6 +49,7 @@ We use a multimodal approach of structural and functional MRI to further our ins
 <br/>
 
 #### publications:
+1. Greene C, Cieslak M, **Volz LJ**, Hensel L, Grefkes C, Rose K, Grafton ST **(2019)** Finding maximally disconnected subnetworks with shortest path tractography. _NeuroImage: Clinical 18: doi.org/10.1016/j.nicl.2019.101903_
 1.	Cieslak M, Meiring W, Brennan T, Greene C, **Volz LJ**, Vettel JM, Suri S, Grafton ST **(2018)** Compositional measures of diffusion anisotropy and asymmetry. _Biomedical Imaging (ISBI 2018), IEEE 15th International Symposium: 123-126_
 1.	**Volz LJ**, Cieslak M, Grafton ST (2018) Compartmentalizing white matter reduces profound variability of anisotropy measures. _Brain Structure and Function 223(2), 635-651_
 1.	Cieslak M, Brennan T, Meiring W, **Volz LJ**, Asturias A, Surib S, Grafton ST **(2018)** Analytic tractography: A closed-form solution for estimating local white matter connectivity with diffusion MRI. _NeuroImage 169: 473–484_
